@@ -7,18 +7,6 @@ I work at the intersection of computational design, robotic fabrication, and gra
 
 ---
 
-## Active Research
-
-**GraphML-based Control Workflows for Robotic Fabrication Pipelines**  
-PRISMA systematic review + technical pipeline implementation.  
-Graph structures encode fabrication sequence, spatial constraints, and kinematic state in a single representation.
-
-**AI Benchmark Study — Architectural Image Generation**  
-50 factorial prompts × 5 building typologies × 6 workflow modalities.  
-Evaluating DALL·E, Midjourney, Stable Diffusion, and Firefly against human rater instruments.
-
----
-
 ## Current Projects
 
 | Repo | What it does | Status |
