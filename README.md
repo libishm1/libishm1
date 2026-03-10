@@ -1,6 +1,6 @@
 # Libish Murugesan
 
-Researcher and lecturer in robotics for architecture. Based in Riyadh.  
+Researcher in robotics for architecture. Based in Riyadh.  
 Master's in Robotics and Advanced Construction.
 
 I work at the intersection of computational design, robotic fabrication, and graph-based spatial reasoning. My primary hardware stack is a **UR10e** with an **RG6 gripper**. My primary software stack is **ROS2 + Grasshopper**, connected via WebSocket middleware.
